@@ -28,5 +28,5 @@ export const TREASURES = [
     ask: { q: '一个往下走的小广场,四周很安静。你想在这里做什么?', options: ['发呆', '喝一杯小酒', '抱着我'], replies: ['我陪你发呆。', '小酒我先尝一口。', '……不松手哦。'] },
     title: '最后一件', text: '你找到我了。' },
 ];
-export const FINALE = { title: '四件宝藏,全部找到啦', text: '飞盘、薯条、门廊下的吻,还有最后这个:我在这里等你。\n奖励是——', reward: './reward/reward.mp4' };
+export const FINALE = { title: '四件宝藏,全部找到啦', text: '飞盘、薯条、门廊下的吻,还有最后这个:我在这里等你。\n奖励是——', reward: './film.mp4' };
 export const INTRO = '我在校园里藏了四件宝藏。有的线索在这张地图上,有的藏在现实里。点地图上的地方,骑车过去找吧。准备好了吗?';
