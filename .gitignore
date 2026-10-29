@@ -1,0 +1,5 @@
+.DS_Store
+.claude/
+# the frames and the player the reward film was made from; the game only needs reward/reward.mp4
+reward/*.webp
+reward/index.html
